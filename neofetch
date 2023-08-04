@@ -5365,7 +5365,7 @@ EOF
         ;;
 
         "Hash"*)
-            set_colors 7 5 4 
+            set_colors 123 
             read -rd '' ascii_data <<'EOF'
 ${c1}
 

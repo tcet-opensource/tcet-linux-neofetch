@@ -5313,7 +5313,7 @@ h//NNNNh  ossss` +h  md- .hm/ `sNNNNN:+y
             -/osssossossso/-
 EOF
         ;;
-        "TcetLinux1"*)
+        "TCET Linux"*)
             set_colors 7 5 4
             read -rd '' ascii_data <<'EOF'
 ${c1}       
@@ -5337,7 +5337,7 @@ ${c1}
                       ⢿⣿⡿
 EOF
         ;;
-        "TcetLinux2"*)
+        "TL"*)
             set_colors 1 2 3
             read -rd '' ascii_data <<'EOF'
 ${c1} 

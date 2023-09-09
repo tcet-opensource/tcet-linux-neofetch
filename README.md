@@ -11,7 +11,7 @@ This repo contains the modified source code of the original [neofetch](https://g
 
 ### Preview
 
-![neofetch](https://github.com/tcet-opensource/tcet-linux-neofetch/assets/53911515/16d1264a-ab90-4dba-9b0b-2a32f8b410ce)
+![neofetch](https://github.com/tcet-opensource/tcet-linux-neofetch/assets/53911515/f8264c41-a169-4076-b272-7b0c06762fc8)
 
 ### Credits
 

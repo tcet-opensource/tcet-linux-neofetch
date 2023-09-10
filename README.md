@@ -6,8 +6,7 @@ This repo contains the modified source code of the original [neofetch](https://g
 
 ### Changes we have made
 
-1. Added the **TCET Linux** to the OS table
-2. Added a custom ASCII art of the distribution
+1. Added TCET-Linux and a custom ASCII art of the distribution
 
 ### Preview
 
@@ -15,4 +14,4 @@ This repo contains the modified source code of the original [neofetch](https://g
 
 ### Credits
 
-Our sincere thanks to [neofetch](https://github.com/dylanaraps/neofetch) and its creator for making such an awesome tool
+Our sincere thanks to [neofetch](https://github.com/dylanaraps/neofetch) and its creator for making neofetch without which this repo wouldn't have been possible

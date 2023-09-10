@@ -14,4 +14,4 @@ This repo contains the modified source code of the original [neofetch](https://g
 
 ### Credits
 
-Our sincere thanks to [neofetch](https://github.com/dylanaraps/neofetch) and its creator for making neofetch without which this repo wouldn't have been possible
+Our sincere thanks to [neofetch](https://github.com/dylanaraps/neofetch) community and its creator for making neofetch without which this repo wouldn't have been possible

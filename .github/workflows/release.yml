@@ -36,7 +36,7 @@ jobs:
         with:
           artifacts: "*.tar.gz,checksum"
           generateReleaseNotes: false
-          name: "TCET-Linux Wallpaper"
+          name: "TCET-Linux Neofetch"
           tag: latest
 
       - name: Release Tar File
@@ -44,5 +44,5 @@ jobs:
         with:
           artifacts: "*.tar.gz,checksum"
           generateReleaseNotes: false
-          name: "TCET-Linux Wallpaper"
+          name: "TCET-Linux Neofetch"
           tag: ${{ env.DATE }}

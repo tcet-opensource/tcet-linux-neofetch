@@ -5314,7 +5314,7 @@ h//NNNNh  ossss` +h  md- .hm/ `sNNNNN:+y
 EOF
         ;;
         "TCET Linux"*)
-            set_colors 6 5 4
+            set_colors 5 5 4
             read -rd '' ascii_data <<'EOF'
 ${c1}       
 
